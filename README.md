@@ -13,4 +13,4 @@
    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=black">
 </div><br/>
 
-![Dev-Edison's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanPinehiro19&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
+![Dev-Edison's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Edison&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
