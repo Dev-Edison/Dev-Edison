@@ -1,6 +1,6 @@
 ### hello, i call Edison. 👋
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:dev3dison@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev3dison@gmail.com)
 
 ![Edison  GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Edison&show_icons=true&theme=great-gatsby)
 
