@@ -2,7 +2,7 @@
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=black)](mailto:dev3dison@gmail.com)
 
-![Carlos  GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Edison&show_icons=true&theme=great-gatsby)
+![Edison  GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Edison&show_icons=true&theme=great-gatsby)
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=black">
@@ -13,4 +13,4 @@
    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=black">
 </div><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-Edison&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Dev-Edison's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JonathanPinehiro19&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
