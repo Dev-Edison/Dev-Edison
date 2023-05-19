@@ -1,4 +1,4 @@
-### hello, i call Edison. 👋
+### Olá, me chamo Edison. 👋
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev3dison@gmail.com)
 
