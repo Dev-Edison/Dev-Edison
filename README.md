@@ -1,5 +1,10 @@
 ### Olá, me chamo Edison. 👋
 
+👀 Desejo trabalhar como programador júnior.
+🌱 Estou atualmente estudando JavaScript (FullStack).
+📫 Caso queira entrar em contato comigo, mande uma me mensagem pelo Whatsapp +55 (21) 9340-5583 ou envie um E-mail para: dev3dison@gmail.com
+
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev3dison@gmail.com)
 
 ![Edison  GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Edison&show_icons=true&theme=great-gatsby)
