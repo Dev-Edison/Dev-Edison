@@ -1,7 +1,9 @@
 ### Olá, me chamo Edison. 👋
 
 👀 Desejo trabalhar como programador júnior.
+
 🌱 Estou atualmente estudando JavaScript (FullStack).
+
 📫 Caso queira entrar em contato comigo, mande uma me mensagem pelo Whatsapp +55 (21) 9340-5583 ou envie um E-mail para: dev3dison@gmail.com
 
 
