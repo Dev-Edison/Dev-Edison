@@ -8,8 +8,6 @@
 
 
 📫 Caso queira entrar em contato comigo via E-mail : 
-
-
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev3dison@gmail.com)
 
 
