@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/edison-marcos-194525278/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 
-📫 Caso queira entrar em contato comigo, mande uma me mensagem pelo Whatsapp +55 (21) 9 9340-5583 ou envie um E-mail para: 
+📫 Caso queira entrar em contato comigo, envie um E-mail para: 
 
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dev3dison@gmail.com)
