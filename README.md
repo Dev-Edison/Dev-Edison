@@ -7,7 +7,7 @@
 
 👀 Desejo trabalhar como programador júnior.
 
-🌱 Estou atualmente estudando JavaScript (FullStack).
+🌱 Atualmente estudando JavaScript e Java.
 
   <a href="https://www.linkedin.com/in/edison-marcos-194525278/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
