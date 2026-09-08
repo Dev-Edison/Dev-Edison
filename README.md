@@ -17,9 +17,6 @@
 
 - 📫 Caso queira entrar em contato comigo via Whatsapp: <a  href="https://api.whatsapp.com/send?phone=5521993405583&text=Olá Edison, vim pelo perfil do github!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a> 
 
-
-![Edison  GitHub stats](https://github-readme-stats.vercel.app/api?username=Dev-Edison&show_icons=true&theme=great-gatsby)
-
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     
