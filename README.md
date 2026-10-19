@@ -1,4 +1,4 @@
-<a href="https://github.com/DenverCoder1/readme-typing-svg">
+ <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&duration=4000&pause=1500&color=3DA47A&width=435&lines=Olá+👋"/>
     <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=lucida+console&weight=900&size=18&duration=4000&pause=2000&color=3DA47A&width=435&lines=Meu+nome+%C3%A9+Edison+;Seja+bem+vindo(a)+ao+meu+perfil!" alt="Typing SVG" />
@@ -35,9 +35,7 @@
 <img align="center" alt="postman" src="https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white">
     
  <img align="center" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
- 
-  <img align="center" alt="angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  
+   
   <img align="center" alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">
 
    <img align="center" alt="postman" src="https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white">
